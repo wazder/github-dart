@@ -1,0 +1,7 @@
+// 1. Siparişlerin Tiplerini Tutan bir enum (Pizza, Hamburger, vs..)
+// 2. Siparişlerin tariflerini döndüren bir extension.
+// 3. OrderController Sınıfı (müşteri ismi, sipariş türü, vs..)
+// 4. OrderController Sınıfını Generic Yapıda oluşturalım,
+// 5. OrderController sınıfını kullanarak sipariş oluşturun.
+// 6. Mixin ile sipariş özelleştirme yapalım. (Soğansız, acılı vs..)
+// 7. Sipariş alındığında, hazırlandığı, teslime edildiğin bilgi veren async bir fonksiyon.
