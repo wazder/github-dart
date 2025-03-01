@@ -1,0 +1,5 @@
+// Weather enum'unu oluşturun  
+// Sunny, Rainy, Cloudy, Snowy değerlerini alsın  
+// Bu enum içerisinde getAdvice isminde bir metod olsun  
+// Bu metod hava durumuna göre tavsiye versin  
+// Örneğin: Weather.SUNNY.getAdvice() => "Go out and enjoy the sun"  

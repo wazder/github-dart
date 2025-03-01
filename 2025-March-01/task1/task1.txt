@@ -1,0 +1,4 @@
+// Vehicle, Car, Plane class'larını oluştur  
+// Vehicle class'ında move void’i olsun  
+// Bu move void’i Car class’ında karadan götürsün diye output versin  
+// Plane class’ında havadan götürsün diye output versin  
