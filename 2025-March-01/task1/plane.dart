@@ -5,6 +5,6 @@ import 'vehicle.dart';
 class Plane implements Vehicle {
   @override
   void move() {
-    print('plane gp vrrrr');
+    print('plane go vrrrr');
   }
 }
