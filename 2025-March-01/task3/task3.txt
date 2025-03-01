@@ -1,0 +1,4 @@
+// Future bir method oluşturun  
+// Bu fonksiyon sipariş alındığı anda bilgilendirme yapsın  
+// 5 saniye sonra "Sipariş hazırlandı" desin  
+// 3 saniye sonra da "Sipariş teslim edildi" desin 
